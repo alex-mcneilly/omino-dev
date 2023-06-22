@@ -5,3 +5,7 @@ Omino is a LinkedIn for Gen Z developers. You can create a profile, connect with
 # PROGRESS:
 July 2023:
 - 
+
+August 2023:
+
+
