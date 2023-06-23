@@ -4,6 +4,9 @@ Omino is a LinkedIn for Gen Z developers. You can create a profile, connect with
 # TECH STACK:
 * Standard MERN stack
 * Animations using React libraries
+
+# HOW TO USE:
+* Create an account
 * 
 
 # PROGRESS:
