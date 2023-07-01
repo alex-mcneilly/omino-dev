@@ -24,3 +24,7 @@ September 2023:
 * Experience
 * Coding Challenges
 * Attract Companies
+* Integrated Code Platform
+* Developer Portfolio Templates
+* Career Path Recommendations (CourseRoad For Careers?)
+* Skill Development Challenges
