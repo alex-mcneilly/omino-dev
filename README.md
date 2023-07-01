@@ -22,3 +22,5 @@ September 2023:
 # FEATURES:
 * Profile
 * Experience
+* Coding Challenges
+* Attract Companies
