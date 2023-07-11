@@ -23,7 +23,7 @@ September 2023:
 # FEATURES AND IDEAS:
 * Profile
 * Experience
-* Coding Challenges
+* Coding Challenges (like LeetCode or CodeForces)
 * Attract Companies
 * Integrated Code Platform
 * Developer Portfolio Templates
