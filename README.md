@@ -4,6 +4,7 @@ Omino is the deep job platform for Gen Z developers. You can create a profile, c
 # TECH STACK:
 * Standard MERN stack
 * Animations using React libraries and LoDash
+* Vercel
 
 # HOW TO USE:
 * Create an account
