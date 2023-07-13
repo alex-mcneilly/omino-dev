@@ -5,6 +5,7 @@ Omino is the deep job platform for Gen Z developers. You can create a profile, c
 * Standard MERN stack
 * Animations using React libraries and LoDash
 * Vercel
+* 
 
 # HOW TO USE:
 * Create an account
@@ -12,7 +13,7 @@ Omino is the deep job platform for Gen Z developers. You can create a profile, c
 
 # PROGRESS:
 July 2023:
-- 
+- started system design 
 
 August 2023:
 -
