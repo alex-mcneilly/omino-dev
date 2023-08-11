@@ -13,10 +13,11 @@ Omino is the deep job platform for Gen Z developers. You can create a profile, c
 
 # PROGRESS:
 July 2023:
-- started system design 
+- researching tech stack
+- finalizing tech stack
 
 August 2023:
--
+- preliminary designs
 
 September 2023:
 -
