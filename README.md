@@ -18,6 +18,7 @@ July 2023:
 
 August 2023:
 - preliminary designs
+- Figma designs
 
 September 2023:
 -
